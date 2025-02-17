@@ -14,13 +14,7 @@ I'm a dedicated coder who thrives on tackling complex problems and developing ef
 
 ## 🔧 Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
+![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Tech%20Stack&align=center&showBorder=false&hideTitle=true&hideBg=true&borderRadius=12.5&fontFamily=consolas&fontSize=20&fontWeight=normal&width=500&gap=15&lineHeight=10)
 
 ## 📈 GitHub Stats
 
