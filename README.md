@@ -12,10 +12,6 @@
 
 I'm a dedicated coder who thrives on tackling complex problems and developing efficient solutions. My journey spans various domains, including system-level programming and algorithm design. I continuously seek opportunities to learn and grow, embracing new technologies and methodologies to enhance my skill set.
 
-## 🔧 Tech Stack
-
-![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Tech%20Stack&align=center&showBorder=false&hideTitle=true&hideBg=true&borderRadius=12.5&fontFamily=consolas&fontSize=20&fontWeight=normal&width=500&gap=15&lineHeight=10)
-
 ## 📈 GitHub Stats
 
 <p align="center">
