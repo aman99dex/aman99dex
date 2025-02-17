@@ -1,45 +1,32 @@
-# 🔥 Aman Gupta | aman99dex
+# Aman Gupta | aman99dex
 
-> Forging code into efficient solutions | Compiler Design Enthusiast
+> Embracing coding challenges to craft innovative solutions
 
-## 👨‍💻 About Me
+## About Me
 
-Building compilers and exploring system-level programming. Currently working on the Fire Compiler - a tool that melts `.Fe` (Iron) files into executable form.
+I'm a dedicated coder who thrives on tackling complex problems and developing efficient solutions. My portfolio encompasses a wide range of projects, from web development to data analysis, reflecting my commitment to continuous learning and adaptation.
 
-## 🛠️ Tech Stack
+## 🔧 Tech Stack
 
-```plaintext
-Languages: C++, Python
-Tools:     CMake, Git, VS Code
-Focus:     Compiler Design, System Programming
-```
+- **Languages:** C++, Python, JavaScript
+- **Frameworks:** React, Node.js
+- **Tools:** Git, Docker, VS Code
+- **Domains:** Web Development, Data Analysis, Algorithm Design
 
-## 🚀 Current Project
+## 🚀 Featured Projects
 
-### [Fire Compiler](https://github.com/aman99dex/Fire)
-A modern compiler that transforms `.Fe` files into executable code. Just as fire transforms raw iron into refined steel, this compiler melts down source code into optimized machine instructions.
+[![Fire Compiler](https://github-readme-stats.vercel.app/api/pin/?username=aman99dex&repo=Fire-Compiler)](https://github.com/aman99dex/Fire-Compiler)
 
-Key Features:
-- 🔥 Lexical Analysis (Token Forging)
-- ⚒️ Precise Error Reporting
-- 🛠️ Efficient String Processing
-- 📍 Line & Column Tracking
+[![Web Scraper](https://github-readme-stats.vercel.app/api/pin/?username=aman99dex&repo=Web-Scraper)](https://github.com/aman99dex/Web-Scraper)
+
+[![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=aman99dex&repo=Portfolio-Website)](https://github.com/aman99dex/Portfolio-Website)
+
+*Replace `Web-Scraper` and `Portfolio-Website` with the actual repository names you wish to highlight.*
 
 ## 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aman99dex&show_icons=true&theme=radical)
+![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=aman99dex&show_icons=true&theme=radical)
 
-## 🌐 Connect With Me
+## 📫 Connect With Me
 
-- GitHub: [@aman99dex](https://github.com/aman99dex)
-- Email: kumarguptaaman896@gmail.com
-
-## 📜 License
-
-Open source projects are released under the MIT License.
-
----
-
-<p align="center">
-  <i>⚡ Happy Coding! ⚡</i>
-</p>
+- [LinkedIn](https://www.linkedin.com/in/aman-kumar-gupta-2b294930b)
