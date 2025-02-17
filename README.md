@@ -4,24 +4,13 @@
 
 ## About Me
 
-I'm a dedicated coder who thrives on tackling complex problems and developing efficient solutions. My portfolio encompasses a wide range of projects, from web development to data analysis, reflecting my commitment to continuous learning and adaptation.
+I'm a dedicated coder who thrives on tackling complex problems and developing efficient solutions. My journey spans various domains, including system-level programming and algorithm design. I continuously seek opportunities to learn and grow, embracing new technologies and methodologies to enhance my skill set.
 
 ## 🔧 Tech Stack
 
-- **Languages:** C++, Python, JavaScript
-- **Frameworks:** React, Node.js
-- **Tools:** Git, Docker, VS Code
-- **Domains:** Web Development, Data Analysis, Algorithm Design
-
-## 🚀 Featured Projects
-
-[![Fire Compiler](https://github-readme-stats.vercel.app/api/pin/?username=aman99dex&repo=Fire-Compiler)](https://github.com/aman99dex/Fire-Compiler)
-
-[![Web Scraper](https://github-readme-stats.vercel.app/api/pin/?username=aman99dex&repo=Web-Scraper)](https://github.com/aman99dex/Web-Scraper)
-
-[![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=aman99dex&repo=Portfolio-Website)](https://github.com/aman99dex/Portfolio-Website)
-
-*Replace `Web-Scraper` and `Portfolio-Website` with the actual repository names you wish to highlight.*
+- **Languages:** C++, Python
+- **Tools:** CMake, Git, VS Code
+- **Domains:** System Programming, Algorithm Design
 
 ## 📈 GitHub Stats
 
