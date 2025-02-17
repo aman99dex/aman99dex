@@ -28,6 +28,12 @@ I'm a dedicated coder who thrives on tackling complex problems and developing ef
   <img src="https://github-readme-stats.vercel.app/api?username=aman99dex&show_icons=true&theme=radical" alt="Aman's GitHub stats"/>
 </p>
 
+## 📊 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman99dex&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
 ## 📫 Connect With Me
 
 <p align="center">
