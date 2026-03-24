@@ -165,21 +165,7 @@ const aman = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════ SNAKE ═══════════════════ -->
 
-<h2>🐍 &nbsp;<code>~/watch-the-snake-eat</code></h2>
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aman99dex/aman99dex/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aman99dex/aman99dex/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/aman99dex/aman99dex/output/github-snake-dark.svg" />
-</picture>
-</div>
-
-> 💡 Enable via [Snake GitHub Action](https://github.com/Platane/snk) in your profile repo
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════ CONNECT ═══════════════════ -->
 
