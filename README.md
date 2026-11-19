@@ -9,14 +9,9 @@
 ### ⚡ Right now
 
 - 🏢 **At work:** I co-own an in-house agent framework and build, end to end, an AI collections product for finance teams: agents that chase overdue invoices over email and voice calls, reconcile payments and sync with ERPs. Event-driven microservices (Kafka, AWS, OpenTelemetry) up to the React UI.
-- 🤝 **Open source:** contributing to OpenTelemetry Go and Kubernetes.
+- 🤝 **Open source:** contributing to cloud-native and AI infra projects.
 - 🌙 **Side projects:** local-first, encrypted tools for people and their coding agents.
 - 📚 **Grinding:** LeetCode + Codeforces in C++ and Python.
-
-### 🤝 Open-source contributions
-
-- **OpenTelemetry Go**: documented the SDK's supported env vars for [sdk/trace](https://github.com/open-telemetry/opentelemetry-go/pull/9010), [sdk/resource](https://github.com/open-telemetry/opentelemetry-go/pull/9008) and [the Zipkin exporter](https://github.com/open-telemetry/opentelemetry-go/pull/9009) (merged)
-- **Kubernetes**: [remove unused `pkg/util` packages](https://github.com/kubernetes/kubernetes/pull/142499) (in review)
 
 ### 🚀 Projects
 
