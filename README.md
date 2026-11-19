@@ -8,9 +8,9 @@
 
 ### ⚡ Right now
 
-- 🏢 **At work:** I co-own an in-house agent framework and build, end to end, an AI collections product for finance teams: agents that chase overdue invoices over email and voice calls, reconcile payments and sync with ERPs. Event-driven microservices (Kafka, AWS, OpenTelemetry) up to the React UI.
+- 🏢 **At work:** I co-own our in-house agent framework (LangGraph + Deep Agents, MCP tools) and build an AI collections product end to end: agents that chase overdue invoices over email and voice calls, reconcile payments and sync with ERPs. Python/FastAPI services on Kafka + MongoDB on AWS, with a React + TypeScript UI.
 - 🤝 **Open source:** contributing to cloud-native and AI infra projects.
-- 🌙 **Side projects:** local-first, encrypted tools for people and their coding agents.
+- 🌙 **Side projects:** local-first, encrypted tools in Go and Kotlin, plus memory for AI agents.
 - 📚 **Grinding:** LeetCode + Codeforces in C++ and Python.
 
 ### 🚀 Projects
@@ -22,23 +22,27 @@
 | [**Obligo**](https://github.com/aman99dex/Obligo) | License scanner that checks what your *deployment* actually obliges you to do (SSPL, BSL, AGPL…), not just the license names. On PyPI. | Python |
 | [**RelayMesh**](https://github.com/aman99dex/relaymesh) 🚧 | E2E-encrypted Android messenger that falls back to phone-to-phone BLE / Wi-Fi Aware mesh when there's no signal. | Kotlin |
 | [**p2p**](https://github.com/aman99dex/Decentralised-P2P-File-Sharing) 🚧 | `p2p send ./photos` → share a code → encrypted direct transfer. No account, no server. | Go |
-| [**GM-DF**](https://github.com/aman99dex/GM-DF) | Reproducing a deepfake-detection paper on real data. | Python |
 
 ### 🛠️ Stack
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=white)
 
 ### 📡 Reach me
 
