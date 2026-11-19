@@ -8,20 +8,26 @@
 
 ### ⚡ Right now
 
-- 🏢 **By day:** I'm the backend engineer on an AI-agent product for a B2B fintech. I build agents that write and send emails, place voice calls and reconcile money, on top of event-driven microservices (Kafka, AWS, OpenTelemetry).
-- 🌙 **By night:** I build open-source tools that keep your data on your own machine.
-- 📚 **Learning:** reading Kafka, Kubernetes, LangChain and OpenTelemetry source, plus a daily DSA streak.
+- 🏢 **At work:** I co-own an in-house agent framework and build, end to end, an AI collections product for finance teams: agents that chase overdue invoices over email and voice calls, reconcile payments and sync with ERPs. Event-driven microservices (Kafka, AWS, OpenTelemetry) up to the React UI.
+- 🤝 **Open source:** contributing to OpenTelemetry Go and Kubernetes.
+- 🌙 **Side projects:** local-first, encrypted tools for people and their coding agents.
+- 📚 **Grinding:** LeetCode + Codeforces in C++ and Python.
 
-### 🚀 Things I've shipped
+### 🤝 Open-source contributions
+
+- **OpenTelemetry Go**: documented the SDK's supported env vars for [sdk/trace](https://github.com/open-telemetry/opentelemetry-go/pull/9010), [sdk/resource](https://github.com/open-telemetry/opentelemetry-go/pull/9008) and [the Zipkin exporter](https://github.com/open-telemetry/opentelemetry-go/pull/9009) (merged)
+- **Kubernetes**: [remove unused `pkg/util` packages](https://github.com/kubernetes/kubernetes/pull/142499) (in review)
+
+### 🚀 Projects
 
 | Project | What it does | Stack |
 |---|---|---|
 | [**Orbis**](https://github.com/aman99dex/orbis) | Local-first context store for you *and* your coding agents: notes, PDFs and pages in a plain folder, an orbit graph and a built-in MCP server. Win/macOS releases. | Go · Wails · MCP |
 | [**Agentic Memory**](https://github.com/aman99dex/Agentic_Memory) | Long-term memory for LLM agents. It saves every turn on its own, updates facts that change, keeps projects separate and briefs each new session. | Python · pgvector · SQLite |
 | [**Obligo**](https://github.com/aman99dex/Obligo) | License scanner that checks what your *deployment* actually obliges you to do (SSPL, BSL, AGPL…), not just the license names. On PyPI. | Python |
-| [**RelayMesh**](https://github.com/aman99dex/relaymesh) | E2E-encrypted Android messenger that falls back to phone-to-phone BLE / Wi-Fi Aware mesh when there's no signal. | Kotlin |
-| [**p2p**](https://github.com/aman99dex/Decentralised-P2P-File-Sharing) | `p2p send ./photos` → share a code → encrypted direct transfer. No account, no server. | Go |
-| [**GM-DF**](https://github.com/aman99dex/GM-DF) | Deepfake detection paper, reimplemented on real data. | Python · PyTorch |
+| [**RelayMesh**](https://github.com/aman99dex/relaymesh) 🚧 | E2E-encrypted Android messenger that falls back to phone-to-phone BLE / Wi-Fi Aware mesh when there's no signal. | Kotlin |
+| [**p2p**](https://github.com/aman99dex/Decentralised-P2P-File-Sharing) 🚧 | `p2p send ./photos` → share a code → encrypted direct transfer. No account, no server. | Go |
+| [**GM-DF**](https://github.com/aman99dex/GM-DF) | Reproducing a deepfake-detection paper on real data. | Python |
 
 ### 🛠️ Stack
 
